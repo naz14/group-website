@@ -1,7 +1,7 @@
 # group-website
 Repo for learning how to make a Github page
 
-## Learnung Markdown
+## Learning Markdown
 
 Vanilla text  *italics* and **bold**
 
