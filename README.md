@@ -1,2 +1,2 @@
 # group-website
-Repo for learning how yo make a Github page
+Repo for learning how to make a Github page
