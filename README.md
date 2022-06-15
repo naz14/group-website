@@ -22,5 +22,5 @@ are caused by two trailing spaces at the end of the line
 4. phil carp
 
 
-![logo](https://www.google.com/search?q=leeds+uni+logos&sxsrf=ALiCzsZ1xIOTBFnWDlt3OpO4_PzrbJNCpQ:1655302697886&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiSkbaK06_4AhUVQEEAHRx6ChIQ_AUoAXoECAEQAw&biw=883&bih=768&dpr=2#imgrc=RatUDSCCxXL1VM)
+![logo](https://www.paxman-landscapes.com/wp-content/uploads/2015/02/unileedslogo.png)
 
